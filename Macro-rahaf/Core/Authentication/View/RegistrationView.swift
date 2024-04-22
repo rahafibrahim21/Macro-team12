@@ -104,3 +104,4 @@ extension RegistrationView: AuthenticationFormProtocol {
 #Preview {
     RegistrationView()
 }
+
