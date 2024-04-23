@@ -70,8 +70,7 @@ struct LogingView: View {
                         Text("Don't have an account? ")
                         Text("Sign up")
                             .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
-                        //uhy
-                        //mm
+                        
                     }
                     .font(.system(size: 14))
                 }
